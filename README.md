@@ -35,55 +35,6 @@ student-registration-system/
 
 ---
 
-## 🗂️ Assignment Task Coverage
-
-### Task 1 — Basic Structure (5 Marks)
-- `index.html` created with complete HTML5 boilerplate
-- Meaningful `<title>` and `<meta>` tags (charset, viewport, description, author)
-
-### Task 2 — Header (5 Marks)
-- Catchy heading: **"Student Registration System"**
-- Brief description paragraph summarizing system functionality
-- Styled badge label "Internshala Assignment"
-
-### Task 3 — Form & Input Fields (5 Marks)
-- Form with four fields: **Student Name**, **Student ID**, **Email ID**, **Contact Number**
-- Proper labels, placeholders, and accessible layout
-- Styled with consistent spacing and dark-theme design
-
-### Task 4 — Display Section (15 Marks)
-- Registered records displayed in a responsive table on the same page
-- Columns: `#`, Name, Student ID, Email, Contact No., Actions
-- Fully responsive — adapts to all screen sizes
-
-### Task 5 — Styling & Design (20 Marks)
-- Custom CSS with variables for consistent theming
-- Animated gradient mesh background
-- Google Fonts: **Playfair Display** (headings) + **DM Sans** (body)
-- Smooth hover states, transitions, row animations, and toast notifications
-- Responsive across mobile, tablet, and desktop breakpoints
-
-### Task 6 — JavaScript Functionality (40 Marks)
-- ✅ **Add** new student records
-- ✅ **Edit** records via popup modal (pre-filled, validated)
-- ✅ **Delete** records via confirmation popup modal
-- ✅ **LocalStorage** persistence — data survives page refresh
-- ✅ **Validation**:
-  - Student Name → letters and spaces only
-  - Student ID → numbers only
-  - Email → valid email format (`user@domain.tld`)
-  - Contact Number → numbers only, minimum 10 digits
-- ✅ **Empty row prevention** — toast alert shown
-- ✅ **Duplicate ID prevention**
-- ✅ **Dynamic vertical scrollbar** added via JavaScript when rows > 5
-
-### Task 7 — Documentation & Comments (10 Marks)
-- ✅ Flat, organized file structure (no nested folders)
-- ✅ Inline code comments throughout HTML, CSS, and JS
-- ✅ This README file
-- ✅ Creative and polished presentation
-
----
 
 ## 🚀 Getting Started
 
